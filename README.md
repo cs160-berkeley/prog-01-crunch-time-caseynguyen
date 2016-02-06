@@ -13,7 +13,8 @@ https://youtu.be/mRtUxnghvnE
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+
+
 
 ## Acknowledgments
 
