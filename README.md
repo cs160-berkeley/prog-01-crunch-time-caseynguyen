@@ -1,14 +1,15 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+No Happy Meal is a calorie burning conversion application that provides users simplistic visualization of the calories they have burned through the number of repetition or timespan of a certain exercise. This user-friendly application allow users to select and enter two inputs—type of exercise, time or repetition of the exercise—and determines the calories simultaneously as the user is inputting. In addition, it provides informative and alternative solutions to burning the same number of calories. 
+
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Casey Nguyen (caseynguyen.sj@berkeley.edu)
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+https://youtu.be/mRtUxnghvnE
 
 ## Screenshots
 
