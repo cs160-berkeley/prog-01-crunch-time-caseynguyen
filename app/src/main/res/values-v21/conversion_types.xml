@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="selection_t">
+        <item>Pushup</item>
+        <item>Situp</item>
+        <item>Jumping_jacks</item>
+        <item>Cycling</item>
+        <item>Stair_climbing</item>
+        <item>Walking</item>
+        <item>Pullup</item>
+        <item>Jogging</item>
+        <item>Leg_lift</item>
+        <item>Swimming</item>
+        <item>Plank</item>
+        <item>Squats</item>
+    </string-array>
+</resources>
